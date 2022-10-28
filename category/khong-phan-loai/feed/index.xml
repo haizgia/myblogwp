@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thủ thuật web &#8211; my blog</title>
+	<atom:link href="https://haizgia.github.io/myblogwp/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://haizgia.github.io/myblogwp/</link>
+	<description></description>
+	<lastBuildDate>Sun, 02 Oct 2022 06:19:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://haizgia.github.io/myblogwp/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
+	<title>Thủ thuật web &#8211; my blog</title>
+	<link>https://haizgia.github.io/myblogwp/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Contact</title>
+		<link>https://haizgia.github.io/myblogwp/contact/</link>
+					<comments>https://haizgia.github.io/myblogwp/contact/#respond</comments>
+		
+		<dc:creator><![CDATA[haizgia]]></dc:creator>
+		<pubDate>Sun, 02 Oct 2022 06:19:22 +0000</pubDate>
+				<category><![CDATA[Thủ thuật web]]></category>
+		<guid isPermaLink="false">https://haizgia.github.io/myblogwp/?p=840</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://haizgia.github.io/myblogwp/contact/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>About</title>
+		<link>https://haizgia.github.io/myblogwp/about/</link>
+					<comments>https://haizgia.github.io/myblogwp/about/#respond</comments>
+		
+		<dc:creator><![CDATA[haizgia]]></dc:creator>
+		<pubDate>Sun, 02 Oct 2022 06:19:22 +0000</pubDate>
+				<category><![CDATA[Thủ thuật web]]></category>
+		<guid isPermaLink="false">https://haizgia.github.io/myblogwp/?p=841</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://haizgia.github.io/myblogwp/about/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Đăng nhập</title>
+		<link>https://haizgia.github.io/myblogwp/dang-nhap/</link>
+					<comments>https://haizgia.github.io/myblogwp/dang-nhap/#respond</comments>
+		
+		<dc:creator><![CDATA[haizgia]]></dc:creator>
+		<pubDate>Sun, 02 Oct 2022 06:19:22 +0000</pubDate>
+				<category><![CDATA[Thủ thuật web]]></category>
+		<guid isPermaLink="false">https://haizgia.github.io/myblogwp/?p=842</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://haizgia.github.io/myblogwp/dang-nhap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
